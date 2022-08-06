@@ -1,5 +1,6 @@
 {
   "name": "fitness_app",
+  "homepage": "https://react-fitness.mohansagar.me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
