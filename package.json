@@ -1,6 +1,5 @@
 {
-  "name": "fitness_app",
-  "homepage": "https://react-fitness.mohansagar.me",
+  "name": "fitfusion",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
